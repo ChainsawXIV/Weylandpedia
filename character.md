@@ -1076,7 +1076,7 @@
             <span class="id-value">318</span>
         </div>
         <div class="id-signature">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/alpha.png" alt="Alpha Exclusive">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/beta.png" alt="Beta Exclusive">
         </div>
     </div>
 </div>
