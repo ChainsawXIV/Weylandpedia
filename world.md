@@ -105,3 +105,57 @@ So if you asked a Kemetic priest if nekomimi are better or superior to any other
 ...But the priest you would be talking to would, themselves, be a nekomimi, and would likely be made uncomfortable if you were to point that out. "Its just traditional."
 
 Regardless of intention, the views of the Kemetic church still carry influence on Nekomimi culture. While many Nekomimi prescribe to other religions and feel unaffected by the church, there exists more radical groups that feel that the importance of Nekomimi has been grossly understated - that they are more valuable physically and spiritually compared to other races. These views might be expressed by your Nekomimi grandmother in passing, or be written in hateful messaging on a flag flying in your neighbor's lawn.
+
+## Incubus and Succubus Lore
+OVERVIEW:
+Incubi (male) and succubi (female) are individuals who possess a rare trait that fundamentally alters their energy requirements. This is a trait, not a species classification - similar to having red hair or heterochromia. Any species can potentially possess this trait, though it is extremely rare outside of demonid populations.
+
+PHYSICAL CHARACTERISTICS:
+- Incubi/succubi appear physically identical to their base species with NO visible demonic features
+- They can temporarily manifest an ethereal form during intimate moments (an optional ability)
+- Despite folklore depictions, they do not possess horns, tails, or other permanent demonic markers
+- Both versions can exercise increased control over their reproductive organs, allowing morphological alterations
+
+ORIGIN AND ACQUISITION:
+The incubus/succubus trait can develop in two known ways:
+1. Hereditary: Demonids can pass the trait genetically to offspring (acting as a heterozygous gene)
+2. Spontaneous Development: Rarely, individuals with no demonid heritage develop the trait with no clear cause
+
+The second case is poorly understood and surrounded by myths. Folk tales claim witches or mages can "curse" someone to become an incubus/succubus. These tales may be propaganda against demonids, suggesting they can "corrupt" others or that the condition is even infectious. There is no scientific consensus on how non-hereditary cases develop.
+
+When acquired spontaneously, the trait typically "activates" during or following adolescence, though it can appear at any point in life. Once developed, there is no known treatment or cure. Some medical professionals classify it as a non-infectious disease.
+
+ENERGY DYNAMICS ("FEEDING"):
+- Incubi/succubi gain energy from intimate acts (kissing, hugging, cuddling, sex)
+- This process is passive, similar to "wireless charging" - natural and non-forceful
+- Without regular intimate contact, they experience chronic fatigue
+- This manifests as perpetual tiredness, similar to losing 1-2 hours of sleep daily
+- While they won't die without this energy, their quality of life significantly decreases
+- The energy gained scales with the intimacy of the act (cuddling < kissing < sex)
+- With regular "feeding," they experience heightened energy and euphoria (similar to an antidepressant without side effects)
+
+EFFECTS ON PARTNERS:
+Effects vary based on specific pairing compatibility. There is no known way to predict how a given recipient will react and there is no obvious pattern in who is energized vs drained by engaging with a succubi or incubi. Three possible reactions after intense intimate contact:
+1. Energizing: Partner feels unusually energetic, euphoric, manic-like state
+2. Draining: Partner feels more exhausted than normal intimate contact would cause
+3. Neutral: No unusual effects
+
+These effects are consistent with specific pairings (if person A is drained by an incubus/succubus B, this will always happen). The compatibility factor determining these effects is unknown. Non-sexual intimate acts produce milder versions of these effects.
+
+SOCIAL AND LEGAL STATUS:
+- Incubi/succubi face significant social stigma and misunderstanding
+- Both suffer from ancient folklore depicting them as predatory
+- Old tales told of malicious incubi assaulting women (esp during sleep) with intentionally harmful anatomical forms
+- Similarly, succubi are often depicted as draining men to death and preying on older men to inherit their wealth.
+- Despite little historical evidence for these claims, the stigma persists
+- Scientific research on incubi/succubi is outlawed in the US as "unethical/immoral", primarily on religious grounds
+- This limits medical understanding and treatment options
+- Weyland University grants housing exemptions to known incubi/succubi and often offers them small scholarships in return for participation in studies
+- Administrative records of this status are supposed to be confidential
+- 
+MISCONCEPTIONS:
+- "Incubus/succubus" and "demonid" are NOT synonymous or mutually exclusive
+- While demonids often possess the incubus/succubus trait, not all incubi/succubi are demonids
+- Similarly, not all demonids possess the incubus/succubus trait
+- Incubi/succubi are not inherently predatory - this depends entirely on individual character
+- An okamimimi with the incubus/succubus trait is not a mixed breed, but a genetically purebred okami with an additional trait
