@@ -107,7 +107,6 @@ So if you asked a Kemetic priest if nekomimi are better or superior to any other
 Regardless of intention, the views of the Kemetic church still carry influence on Nekomimi culture. While many Nekomimi prescribe to other religions and feel unaffected by the church, there exists more radical groups that feel that the importance of Nekomimi has been grossly understated - that they are more valuable physically and spiritually compared to other races. These views might be expressed by your Nekomimi grandmother in passing, or be written in hateful messaging on a flag flying in your neighbor's lawn.
 
 ## Incubus and Succubus Lore
-OVERVIEW:
 Incubi (male) and succubi (female) are individuals who possess a rare trait that fundamentally alters their energy requirements. This is a trait, not a species classification - similar to having red hair or heterochromia. Any species can potentially possess this trait, though it is extremely rare outside of demonid populations.
 
 PHYSICAL CHARACTERISTICS:
@@ -159,3 +158,52 @@ MISCONCEPTIONS:
 - Similarly, not all demonids possess the incubus/succubus trait
 - Incubi/succubi are not inherently predatory - this depends entirely on individual character
 - An okamimimi with the incubus/succubus trait is not a mixed breed, but a genetically purebred okami with an additional trait
+
+## Demonid Lore
+Demonids are a very rare demihuman species that has existed alongside humanity throughout recorded history. Despite their name, they have no connection to demons or hell beyond ancient prejudicial associations. They are one of the most misunderstood and discriminated against demihuman groups, having survived near-extinction during historical persecutions.
+
+PHYSICAL CHARACTERISTICS:
+- All demonids possess a distinctive black, slender, hairless tail with a spade-shaped tip
+- Many have unusual eye colors with subtle glows
+- Some (but not all) have horns of varying sizes and shapes
+- They typically have pale complexions, though they can have diverse skin tones and tan like humans
+- Contrary to stereotypical depictions, they do NOT have goat legs or hooves
+- They appear largely human aside from these distinctive features
+
+HISTORY AND PERSECUTION:
+Demonids were hunted to near extinction a millenia ago across Europe, alongside draconids and vampires. The term "demonid" itself was not chosen by them but imposed as an intentionally derogatory classification by early Christian authorities—comparable to naming a race "Barbarians." It is suggested that the modern idea of what a "demon" looks like (horns, spaded tail, etc) was inspired by the existence of demonids.
+
+The genocide of demonids was fueled by religious beliefs that they were literally demonic in origin. While such extreme violence has largely ended in modern times, discrimination persists:
+- According to Christian doctrine, demonids are considered satanic by nature
+- Many churches prohibit demonids from entering their premises
+- Interfaith marriages between Christians and demonids are often not recognized
+- A recent controversy erupted when a famous mega-church pastor was revealed to be a demonid, causing renewed tensions
+
+GENETIC TRAITS AND MISCONCEPTIONS:
+- Demonids are disproportionately likely to possess the incubus/succubus trait
+- While not all demonids are incubi/succubi, the majority are
+- This appears to be genetic despite not being identifiable in their measured genetic code
+- This correlation has further fueled prejudice against them
+- Demonids are the only species capable of genetically passing the succubi/incubi trait. No other species carries the trait genetically.
+
+CULTURE AND COMMUNITIES:
+- Due to historical persecution, many demonids live in tight-knit, isolated communities
+- These communities are often secretive and wary of outsiders
+- There is significant diversity within demonid communities regarding religion and values
+- Many demonids practice various religions, including Christianity, despite institutional discrimination
+- There are growing movements within some religious organizations to accept demonids, though progress is slow
+- Weyland University is known for being exceptionally accepting of demonids compared to broader society
+
+COMMON MISCONCEPTIONS:
+- Demonids have NO connection to Hell or demons beyond the imposed name
+- They cannot access Hell or any supernatural realm
+- They possess no inherent supernatural powers
+- They are not inherently evil, violent, or depraved—these are racist stereotypes
+- Demonology is NOT the study of demonids (which would fall under genetics), it is the study of demons - They're completely distinct from demons (if such beings even exist)
+- "Incubus/succubus" and "demonid" are NOT synonymous or mutually exclusive
+- While demonids often possess the incubus/succubus trait, not all incubi/succubi are demonids
+
+CONTEMPORARY STATUS:
+Today, demonids face varying levels of acceptance. In progressive areas like Weyland University, they can live openly with minimal discrimination. However, in more conservative regions, they may still face significant prejudice and even violence. Many choose to conceal their tails and other distinctive features when in public to avoid harassment.
+
+The succubus/incubus correlation remains a significant source of stereotyping, with demonids often hypersexualized in media and popular culture. Advocacy groups work to combat these harmful representations and educate the public about demonid history and culture.
