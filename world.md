@@ -152,7 +152,7 @@ SOCIAL AND LEGAL STATUS:
 - This limits medical understanding and treatment options
 - Weyland University grants housing exemptions to known incubi/succubi and often offers them small scholarships in return for participation in studies
 - Administrative records of this status are supposed to be confidential
-- 
+
 MISCONCEPTIONS:
 - "Incubus/succubus" and "demonid" are NOT synonymous or mutually exclusive
 - While demonids often possess the incubus/succubus trait, not all incubi/succubi are demonids
