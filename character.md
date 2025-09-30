@@ -1108,7 +1108,7 @@
         </div>
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
-            <span class="id-value">Apartment</span>
+            <span class="id-value">321</span>
         </div>
         <div class="id-signature">
             <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/beta.png" alt="Beta Exclusive">
