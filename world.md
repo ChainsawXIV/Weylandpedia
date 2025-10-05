@@ -213,3 +213,29 @@ During the colonization of the Americas known as the “Great Expansion”, Amer
 
 NATIVE AMERICAN HISTORY:
 Native Americans existed as a distinct human population separate from demihuman species. The Trail of Tears, forced relocations, and systematic persecution affected Native American tribes specifically - not draconids, vampires, or other demihumans. While some demihuman species (particularly draconids) faced their own persecution during this period, these were parallel but separate historical traumas affecting different communities. Native Americans and demihuman populations rarely interacted during this era and should not be conflated.
+
+## Origin of Weyland University
+Weyland University was founded in 1871 in the newly established town of Weyland, California, positioned on the northern coast where Japanese and American colonial territories met. The university's establishment came during the height of westward expansion, in an era when some demihuman species were well integrated with colonized society and others were on the verge of integration. 
+
+The university was founded through a coalition of Japanese and American medical researchers and philanthropists who recognized the potential that demihuman physiology represented for advancing medical science. Demihumans possessed unique biological traits - enhanced healing, increased strength, varied anatomical structures and extreme physiological diversity between species - that could unlock significant breakthroughs in medicine, biology, and applied sciences.
+
+Weyland's founding model was pragmatic rather than idealistic: offer education and scholarship opportunities to demihumans of all species in exchange for their participation in physiological and medical research. For many demihumans - particularly those from species facing persecution or exclusion from other institutions - Weyland represented their only path to higher education. The university actively recruited even the most marginalized demihuman species, not out of progressive ideology, but because rarer species offered the most valuable research opportunities.
+
+This model proved remarkably effective at attracting a diverse demihuman population. Draconids, vampires, and other species facing near-extinction or active persecution found sanctuary at Weyland not because the university was founded on principles of equality, but because their unique biology made them valuable research subjects. Full and partial scholarships were offered in exchange for varying degrees of study participation, with rarer species receiving more substantial financial support.
+
+The university's early decades were not without controversy. Many of the studies conducted on demihuman students in the late 19th and early 20th centuries would be considered unethical or even barbaric by modern standards. However, as the decades progressed and demihumans themselves became researchers, faculty members, and eventually administrators, the power dynamics within the institution fundamentally shifted.
+
+By the mid-20th century, Weyland had undergone a profound transformation. What began as an institution that viewed demihumans primarily as research subjects had evolved into a university led largely by demihumans themselves. Ethical standards were reformed, study protocols were overhauled to prioritize consent and wellbeing, and the university's mission gradually shifted from extracting value from demihuman biology to genuinely fostering an inclusive academic environment.
+
+The original scholarship-for-research model persists in modified form today, but with vastly different scope and ethics. Studies on common demihuman species like okamimimi and nekomimi - who now comprise a significant portion of the student body and require no incentive to attend - have been largely scaled back. Modern research focuses on individuals with genuinely rare traits: exceptionally rare species (such as windigo), individuals with inherited magical abilities, or those with unique physiological characteristics.
+
+Today, Weyland University is recognized as one of the most species-inclusive institutions in the world. 
+
+Notable historical points:
+- 1871: University founded with focus on demihuman medical research
+- 1883: First draconid student admitted (considered a massive political controversy at the time)
+- 1920s: Sterling Hall constructed during significant campus expansion
+- 1940s-1950s: First demihuman department heads appointed
+- 1960s-1970s: Major ethical reforms to research protocols; Weyland becomes center for demihuman rights activism
+- 1990s: Demihuman majority achieved in faculty and administration
+- Present day: Approximately 80% of student body are demihumans, with representation from dozens of species
