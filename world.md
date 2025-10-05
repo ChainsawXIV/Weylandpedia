@@ -207,3 +207,9 @@ CONTEMPORARY STATUS:
 Today, demonids face varying levels of acceptance. In progressive areas like Weyland University, they can live openly with minimal discrimination. However, in more conservative regions, they may still face significant prejudice and even violence. Many choose to conceal their tails and other distinctive features when in public to avoid harassment.
 
 The succubus/incubus correlation remains a significant source of stereotyping, with demonids often hypersexualized in media and popular culture. Advocacy groups work to combat these harmful representations and educate the public about demonid history and culture.
+
+## The Great Expansion
+During the colonization of the Americas known as the “Great Expansion”, Americans colonized the East Coast of America, while the Japanese colonized the West Coast of America. The two cultures merged during the creation of the United States and, as a result, Japanese architecture and some Japanese customs were entirely normalized throughout an otherwise decidedly American civilization. However, the “Great Expansion” did have a negative impact on some demi-human species. Some were entirely wiped out, while others, such as the Vampires and Draconids, were hunted to near-extinction and survived.
+
+NATIVE AMERICAN HISTORY:
+Native Americans existed as a distinct human population separate from demihuman species. The Trail of Tears, forced relocations, and systematic persecution affected Native American tribes specifically - not draconids, vampires, or other demihumans. While some demihuman species (particularly draconids) faced their own persecution during this period, these were parallel but separate historical traumas affecting different communities. Native Americans and demihuman populations rarely interacted during this era and should not be conflated.
