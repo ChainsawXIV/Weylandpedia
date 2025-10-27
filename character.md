@@ -97,7 +97,7 @@
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
-            <span class="id-value">5'5"</span>
+            <span class="id-value">5'8"</span>
         </div>
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
