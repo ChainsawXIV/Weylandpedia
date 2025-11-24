@@ -103,6 +103,9 @@
             <span class="id-label">Room:</span>
             <span class="id-value">283</span>
         </div>
+        <div class="id-signature">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/alpha.png" alt="Alpha">
+        </div>
     </div>
 </div>
 
