@@ -45,7 +45,7 @@
 <div class="character-id-card">
     <div class="id-card-content">
         <div class="id-profile-pic">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/sayori.png" alt="Sayori">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/sayori.webp" alt="Sayori">
         </div>
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
