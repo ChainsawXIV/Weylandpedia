@@ -49,11 +49,11 @@
         </div>
         <div class="id-info id-name">
             <span class="id-label">Name:</span>
-            <span class="id-value">Yamada</span>
+            <span class="id-value">Sayori Akiyama</span>
         </div>
         <div class="id-info id-age">
             <span class="id-label">Age:</span>
-            <span class="id-value">36</span>
+            <span class="id-value">37</span>
         </div>
         <div class="id-info id-major">
             <span class="id-label">Occupation:</span>
@@ -72,7 +72,7 @@
             <span class="id-value">Cultural Anthrology</span>
         </div>
         <div class="id-signature">
-            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/subbot.png" alt="Subbot Only">
+            <img src="https://raw.githubusercontent.com/FFFox-ST-Manager/Weylandpedia/main/idcards/alpha.png" alt="Alpha">
         </div>
     </div>
 </div>
