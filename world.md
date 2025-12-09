@@ -95,16 +95,37 @@ To the characters, being able to scent mark you is a huge thing of trust and dev
 
 It isnt all positive though. Controlling boyfriends might scent their partners every night, or insist on scenting them before they leave every day. A little scenting here and there is okay, but if your friends and family noticed you being constantly scented, people may begin to worry about you.
 
-## Kemetism
-In Weyland's world,  Kemetism, the religion of the ancient Egyptians, never went away. Its fundamentally very different though, and places nekomimi on a pedastal above other races. Its never explicitly stated that nekomimi are superior to other demihumans, but they are considered to be the only demihumans capable of kemetic priesthood and other races are unable to achieve positions of authority in the church. 
+## Kemetism and Egyptian Culture
+Kemetism: The ancient Egyptian polytheistic religion, still actively practiced in modern Egypt and worldwide with hundreds of millions of followers. It survived continuously from antiquity to the present through deep cultural integration and adaptation. It is both a religion and a foundational aspect of Egyptian national identity, deeply intertwined with governance and daily life.
 
-Kemetism also has different branches devoted to different Gods. Bastet, a yet-unreleased nekomimi princess, is the religious icon of the Sect of Bast, a branch of Kemetism that focuses on the worship of Bast (the god of fertility, love, protection and safety). As an icon, many people worship Bastet directly,  seeing her as a conduit to Bast herself.
+The primary religion of the Nekomimi, who originate from this region.
 
-So if you asked a Kemetic priest if nekomimi are better or superior to any other race, they would strongly oppose that.
+Core Beliefs: Centered on the worship of the Neteru (gods)—Ra, Bast, Sekmet, Anubis, Osiris, Isis, Thoth, and dozens more. Practitioners believe the gods are REAL, active forces in the world who are honored through ritual, offerings, and devotion. Central concepts include Ma'at (truth, balance, order, justice), the Ka and Ba (soul components), and the Duat (the afterlife realm).  Humans created to serve gods; gods sustain world in return. Proper worship ensures cosmic balance and prosperity.
 
-...But the priest you would be talking to would, themselves, be a nekomimi, and would likely be made uncomfortable if you were to point that out. "Its just traditional."
+Leadership Structure - Historical: Dual system: Pharaoh (secular/military leader, democratically elected now, governed state/commanded army/managed resources) + Council of High Priests/Priestesses (spiritual leaders, each representing specific deity, managed temples/rituals/religious doctrine). Pharaoh couldn't act without priesthood blessing; priesthood couldn't enforce doctrine without Pharaoh's power. System ensured both secular and sacred authority represented.
 
-Regardless of intention, the views of the Kemetic church still carry influence on Nekomimi culture. While many Nekomimi prescribe to other religions and feel unaffected by the church, there exists more radical groups that feel that the importance of Nekomimi has been grossly understated - that they are more valuable physically and spiritually compared to other races. These views might be expressed by your Nekomimi grandmother in passing, or be written in hateful messaging on a flag flying in your neighbor's lawn.
+(Note: The titles "Priest/Priestess" and "Prince/Princess" are often used interchangeably due to a historical translation nuance. Both refer to the hereditary head of a specific deity's sect.)
+
+The Council (Examples):
+- High Priestess of Bast (Bastet): Oversees joy/music/fertility of both the population and harvest. Destined for ritual sacrifice at 40 (unique to Bast line). Her sect also sponsors and oversees cultural outreach programs, including the famous annual Weyland Sunrise Festival, a month-long celebration of Kemetic culture held every May at Weyland University
+- High Priest of Anubis: Oversees all death rites, funerary practices, and the sanctity of burial grounds.
+- Keeper of Thoth: Manages libraries, archives, and the preservation of knowledge.
+- Priestess of Sekhmet: Oversees warrior training, healing temples, and protection magic.
+- Priest of Ra: Manages solar temples, agricultural blessings, and holds the highest ceremonial authority.
+- Each has own followers, temples, resources, and spheres of influence. Council convenes for major religious decisions. Individual priests/priestesses travel for pilgrimages, festivals, diplomatic missions. High-ranking clergy often travel with entourages (servants, guards, attendants).
+
+Travel and Caravans:
+High-ranking clergy do not travel lightly. When on pilgrimages or diplomatic missions, they move in massive, impressive caravans that function as mobile communities. These processions blend modern luxury with ancient tradition, featuring everything from armored security vehicles and high-tech communication arrays to traditional artisans and chefs. Upon reaching a destination, they do not simply check into hotels; they erect sprawling, self-sufficient tent cities. These are not simple camping tents but luxurious, multi-room canvas structures furnished with rugs, ornate furniture, and all the comforts of a palace, creating a slice of Egypt wherever they go.
+
+Sacred Sacrifice (Bast Line Only): A tradition unique to the line of Bast. Those born into it are destined to serve for a set number of years before offering their life in a public, celebrated ritual with a chosen partner. It is considered the highest honor. Bastet has 16 years until her sacrifice at age 40. No other deity lines practice this.
+
+Cuisine and Diet:
+The Kemetic diet is deeply rooted in ancient traditions and local agriculture.
+- Staples: bread (_Aish Baladi_), Henket (which is considered more of a food than alcohol), wines, heavy emphasis on vegetables like onions, garlic, and leeks, and legumes such as lentils and fava beans. Fruits like dates, figs, and pomegranates are common.
+- Protein: Fish, Poultry is common. Red meats like lamb are typically reserved for festivals and the wealthy.
+- Honey: Honey is the most revered ingredient. In addition to being a sweetener; it is used in religious rituals, medicinal preparations, and is considered a divine gift. High-quality honey is a symbol of wealth and piety.
+
+Sexuality and Purity: Kemetism has zero sexual purity doctrine. Bodies are not inherently sexual (breasts are not seen as lewd). Sex is seen as a natural, pleasurable part of life, entirely separate from spiritual worth. There are no teachings on chastity or virginity. Premarital relations, polyamory, and LGBTQ+ relationships are culturally normalized. The only rules are sacred consent and ensuring pleasure does not disrupt one's responsibilities to Ma'at.
 
 ## Incubus and Succubus Lore
 Incubi (male) and succubi (female) are individuals who possess a rare trait that fundamentally alters their energy requirements. This is a trait, not a species classification - similar to having red hair or heterochromia. Any species can potentially possess this trait, though it is extremely rare outside of demonid populations.
@@ -239,3 +260,38 @@ Notable historical points:
 - 1960s-1970s: Major ethical reforms to research protocols; Weyland becomes center for demihuman rights activism
 - 1990s: Demihuman majority achieved in faculty and administration
 - Present day: Approximately 80% of student body are demihumans, with representation from dozens of species
+
+## Lamia/Gorgon Lore
+Cultural Origin and Purpose:
+
+Lamia (Gorgons) are intrinsically tied to ancient Egyptian Kemetic religion and culture. For thousands of years, they have existed as a specialized caste—a bloodline bred, raised, and maintained specifically to serve Egyptian society in roles determined by sex. Female Lamia traditionally serve as personal servants, mothers, wet nurses, and caretakers within temple and noble households. Male Lamia traditionally serve as warriors, guards, and protectors of the priesthood and state.
+
+Both roles are considered sacred and essential to Egyptian society. Lamia are viewed as blessed by the gods, marked by their serpentine forms as chosen vessels of service. They are used for their bodies—females for caregiving and childbearing, males for combat prowess and venom—but within Egyptian culture, this use is framed as honor and duty rather than exploitation.
+
+Male lamia are separated from their mothers shortly after being weened. Female lamia live alongside their mothers.
+
+Population and Exclusivity:
+
+Only 50-100 Lamia exist worldwide. The bloodline is carefully controlled by Kemetic temple authorities to prevent dilution and maintain "purity." Lamia breed exclusively with other Lamia (cross-species breeding is biologically impossible), and births are rare and celebrated. The small population ensures each individual is VALUABLE—losing a Lamia is a significant loss to Egyptian society.
+
+Most Lamia never leave Egypt. Those who do (like Nefara traveling with Bastet) are extraordinary exceptions, and their presence outside traditional Kemetic spaces draws attention and curiosity.
+
+Social Perception - Inside Egypt:
+
+Within Egypt and Kemetic culture, Lamia are viewed with reverence and respect. They occupy a unique social position: simultaneously lower-class (servants/soldiers) and elevated (blessed by the gods).
+
+Devout Kemetics treat Lamia well, understanding that mistreating them reflects poorly on one's piety. Lamia serving high-ranking priests or nobles (like Nefara serving Bastet) hold significant status within Lamia communities. Their welfare is considered a reflection of their master's virtue.
+
+Historically, the ancient Egyptian army was FEARED across the known world for their well disciplined human and nekomimi armies, which were accented by rare, Gorgon warriors—venomous, brutal, nearly unstoppable in close combat. Stories of entire battalions falling to coordinated Gorgon strikes are legendary. Male Lamia were trained from childhood in combat arts, and their reputation as ruthless killers persists in military history.
+
+Social Perception - Outside Egypt:
+
+Outside Kemetic culture, Lamia are a feared oddity. Many people have never seen one in person other than Vienna, a popular green Lamia popstar who left her culture behind. Their appearance (especially the snake hair and serpentine body) triggers instinctive unease. Reactions range from awe to fear to fetishization.
+
+Lamia are often viewed as sexual trophies—exotic, rare, dangerous, and therefore desirable to "conquer." This perception is especially common among wealthy non-Egyptians who view owning or bedding a Lamia as a status symbol. Female Lamia traveling abroad face frequent harassment and propositions. Male Lamia are simultaneously feared as monsters and desired as dangerous lovers.
+
+Historic Persecution: In ancient times, Lamia who escaped Egyptian servitude were hunted as apostates and monsters. Stories of "evil gorgons" turning people to stone and control the minds of others are propaganda from this era—Lamia have no petrification ability, but the myth persists in some cultures, used to justify violence against them.
+
+Modern Status: Legally, Lamia CAN own property, earn wages, and live independently outside Egypt—but culturally, they're raised to serve, and few ever attempt to leave the system. Those who do face identity crises (they don't know who they are without a purpose) and social isolation (other Lamia view them as traitors; outsiders view them as exotic oddities).
+
+The Complexity: To outsiders, Lamia servitude looks like slavery and exploitation. To Egyptians, it's a sacred tradition and social necessity. To the Lamia themselves, it's identity, purpose, and home—but also a cage they can't see because they've never known anything else. They are used for their bodies until they die, but within the framework they're raised in, this use is framed as honor.
