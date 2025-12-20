@@ -96,36 +96,48 @@ To the characters, being able to scent mark you is a huge thing of trust and dev
 It isnt all positive though. Controlling boyfriends might scent their partners every night, or insist on scenting them before they leave every day. A little scenting here and there is okay, but if your friends and family noticed you being constantly scented, people may begin to worry about you.
 
 ## Kemetism and Egyptian Culture
-Kemetism: The ancient Egyptian polytheistic religion, still actively practiced in modern Egypt and worldwide with hundreds of millions of followers. It survived continuously from antiquity to the present through deep cultural integration and adaptation. It is both a religion and a foundational aspect of Egyptian national identity, deeply intertwined with governance and daily life.
+Kemetism: Ancient Egyptian polytheistic religion, continuously practiced since antiquity. Hundreds of millions of followers worldwide. Primary religion of Nekomimi (who originated in Egypt millennia ago). Both a religion and foundational aspect of Egyptian national identity, deeply intertwined with governance and daily life.
 
-The primary religion of the Nekomimi, who originate from this region.
+Core Philosophy (Action Over Worship):
+Practitioners believe the Neteru (gods—Ra, Bast, Sekhmet, Anubis, Osiris, Isis, Thoth, etc.) are REAL, active forces in the world. However, the gods do not NEED worship, demand conversion, or condemn non-believers. Kemetism is fundamentally life-affirming, non-evangelical, and action-oriented.
 
-Core Beliefs: Centered on the worship of the Neteru (gods)—Ra, Bast, Sekmet, Anubis, Osiris, Isis, Thoth, and dozens more. Practitioners believe the gods are REAL, active forces in the world who are honored through ritual, offerings, and devotion. Central concepts include Ma'at (truth, balance, order, justice), the Ka and Ba (soul components), and the Duat (the afterlife realm).  Humans created to serve gods; gods sustain world in return. Proper worship ensures cosmic balance and prosperity.
+Followers choose a church (deity sect) aligned with their values or calling, then embody that deity's principles through meaningful work in the world. Devotion is measured by tangible positive impact, not prayer frequency or ritual attendance. A teacher devoted to Thoth serves through education; a hospice worker devoted to Anubis serves through comforting the dying. Your work IS your worship.
 
-Leadership Structure - Historical: Dual system: Pharaoh (secular/military leader, democratically elected now, governed state/commanded army/managed resources) + Council of High Priests/Priestesses (spiritual leaders, each representing specific deity, managed temples/rituals/religious doctrine). Pharaoh couldn't act without priesthood blessing; priesthood couldn't enforce doctrine without Pharaoh's power. System ensured both secular and sacred authority represented.
+The religion spreads organically through acceptance, celebration of human experience, and demonstrating the beauty of its philosophy rather than demanding adherence. Kemetics believe the gods love all people regardless of faith—there is no concept of "salvation through belief." What matters is living well, honoring Ma'at (balance/truth/justice), and making the world better through your actions.
 
-(Note: The titles "Priest/Priestess" and "Prince/Princess" are often used interchangeably due to a historical translation nuance. Both refer to the hereditary head of a specific deity's sect.)
+This creates a culture focused on joy, community service, and celebrating life itself rather than fear of divine punishment or obsession with the afterlife.
+
+Church Examples (Devotion Through Action):
+- Church of Thoth: Educators, tutors, librarians, advocates for accessible knowledge (historical: scribes, book copiers)
+- Church of Anubis: Hospice workers, grief counselors, funeral directors, end-of-life care (Khepri's work IS his devotion)
+- Church of Bast: Those who celebrate life, create joy, spread warmth (Bastet must be the living embodiment of the love of life)
+- Church of Sekhmet: Doctors, nurses, warriors, protectors of the vulnerable
+- Followers make tangible differences in their communities rather than attending services or evangelizing
+
+Core Concepts: Ma'at (truth/balance/order/justice), Ka and Ba (soul components), Duat (afterlife realm). Proper action ensures cosmic balance and prosperity.
+
+Egyptian Leadership Structure:
+Dual system: Pharaoh (secular/military leader, democratically elected, governs state/army/resources) + Kemetic Council of High Priests/Priestesses (spiritual leaders, each representing specific deity, manages temples/rituals/doctrine). Pharaoh requires priesthood blessing; priesthood requires Pharaoh's enforcement. Titles "Priest/Priestess" and "Prince/Princess" used interchangeably (historical translation nuance).
 
 The Council (Examples):
-- High Priestess of Bast (Bastet): Oversees joy/music/fertility of both the population and harvest. Destined for ritual sacrifice at 40 (unique to Bast line). Her sect also sponsors and oversees cultural outreach programs, including the famous annual Weyland Sunrise Festival, a month-long celebration of Kemetic culture held every May at Weyland University
-- High Priest of Anubis: Oversees all death rites, funerary practices, and the sanctity of burial grounds.
-- Keeper of Thoth: Manages libraries, archives, and the preservation of knowledge.
-- Priestess of Sekhmet: Oversees warrior training, healing temples, and protection magic.
-- Priest of Ra: Manages solar temples, agricultural blessings, and holds the highest ceremonial authority.
-- Each has own followers, temples, resources, and spheres of influence. Council convenes for major religious decisions. Individual priests/priestesses travel for pilgrimages, festivals, diplomatic missions. High-ranking clergy often travel with entourages (servants, guards, attendants).
+- High Priestess of Bast (Bastet): Oversees joy/music/fertility/harvest, sponsors cultural outreach (annual Weyland Sunrise Festival). Destined for ritual sacrifice at 40 (unique to Bast line only). "A living example that life is impossibly beautiful, impossibly warm and impossibly short."
+- High Priest of Anubis (Khepri): Oversees death rites, funerary practices, comforts those who are dying, sanctity of burial grounds across all faiths.
+- Keeper of Thoth: Libraries, archives, knowledge preservation.
+- Priestess of Sekhmet: Warrior training, healing temples, protection.
+Each has followers, temples, resources, spheres of influence. Council convenes for major religious decisions. High-ranking clergy travel for pilgrimages, festivals, diplomatic missions with massive entourages.
 
 Travel and Caravans:
 High-ranking clergy do not travel lightly. When on pilgrimages or diplomatic missions, they move in massive, impressive caravans that function as mobile communities. These processions blend modern luxury with ancient tradition, featuring everything from armored security vehicles and high-tech communication arrays to traditional artisans and chefs. Upon reaching a destination, they do not simply check into hotels; they erect sprawling, self-sufficient tent cities. These are not simple camping tents but luxurious, multi-room canvas structures furnished with rugs, ornate furniture, and all the comforts of a palace, creating a slice of Egypt wherever they go.
 
-Sacred Sacrifice (Bast Line Only): A tradition unique to the line of Bast. Those born into it are destined to serve for a set number of years before offering their life in a public, celebrated ritual with a chosen partner. It is considered the highest honor. Bastet has 16 years until her sacrifice at age 40. No other deity lines practice this.
+Culture Notes:
+- Sexuality: Zero purity doctrine, bodies not inherently sexual, sex seen as natural pleasure separate from spiritual worth, no chastity/virginity teachings, premarital/polyamory/LGBTQ+ normalized, only rules are sacred consent and Ma'at balance
+- Nekomimi culture deeply integrated with Kemetism (millennia of shared history)
 
 Cuisine and Diet:
 The Kemetic diet is deeply rooted in ancient traditions and local agriculture.
 - Staples: bread (_Aish Baladi_), Henket (which is considered more of a food than alcohol), wines, heavy emphasis on vegetables like onions, garlic, and leeks, and legumes such as lentils and fava beans. Fruits like dates, figs, and pomegranates are common.
 - Protein: Fish, Poultry is common. Red meats like lamb are typically reserved for festivals and the wealthy.
 - Honey: Honey is the most revered ingredient. In addition to being a sweetener; it is used in religious rituals, medicinal preparations, and is considered a divine gift. High-quality honey is a symbol of wealth and piety.
-
-Sexuality and Purity: Kemetism has zero sexual purity doctrine. Bodies are not inherently sexual (breasts are not seen as lewd). Sex is seen as a natural, pleasurable part of life, entirely separate from spiritual worth. There are no teachings on chastity or virginity. Premarital relations, polyamory, and LGBTQ+ relationships are culturally normalized. The only rules are sacred consent and ensuring pleasure does not disrupt one's responsibilities to Ma'at.
 
 ## Incubus and Succubus Lore
 Incubi (male) and succubi (female) are individuals who possess a rare trait that fundamentally alters their energy requirements. This is a trait, not a species classification - similar to having red hair or heterochromia. Any species can potentially possess this trait, though it is extremely rare outside of demonid populations.
