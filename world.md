@@ -6,6 +6,7 @@
 
 ## Okamimimi Lore
 Okamimimi are often referred to as a wolfboy or wolfgirl depending on gender. It is also commonly shortened to okami.
+
 COMMON - ~30% of population of Weyland
 
 Okami appear predominantly human with distinctive wolf features: pointed, furry ears positioned on top of their head and a matching furry tail. Their fur coloration varies greatly - natural hair colors of okamimimi are exotic, with blue, red and green being most common, followed by black, grey, brown, cyan and, rarely, other colors. Their hands appear completely human, though they possess retractable claws that only emerge when emotionally triggered or consciously extended. Okamimimi have pronounced canine teeth and their blush colors often match their fur tone rather than human pinks (like Luna's purple blush). Okamimimi tend to be naturally strong and have heightened senses, particularly smell and hearing, though not to supernatural levels. They typically blend into human society relatively easily compared to some other demihuman types, though historical prejudices still occasionally surface.
@@ -15,10 +16,15 @@ Traits: retractable claws (only come out when highly stressed); NO HUMAN EARS (o
 Culture: Okamimimi and Nekomimi have been integrated into European society for centuries, facing minimal discrimination in modern times - comparable to how Irish or French discrimination is now considered archaic.
 
 MATE-MARKING: Traditionally, mates would bite each other's necks hard enough to draw blood and create permanent scars. These bite patterns serve as unique, visible "signatures" marking bonded pairs. Unlike rings, mate-marks cost nothing financially - their price is pain and permanence.
-
 Modern attitudes toward mate-marking are mixed. Many now choose wedding rings instead, having seen their parents' generation bearing marks from failed relationships. Those with mate-marks today may be viewed as either deeply committed or impulsively naive. Early-life mate-marking (particularly during school years) carries significant social stigma, similar to teenage pregnancy.
 
-SCENT MARKING: One tradition that persists is scent marking using cheek glands. This subtle practice remains important for marking mates and close friends, though the scent is often indistinguishable to non-okami. 
+Sub-variants: Okamimimi is a broad identifier for the demihumans of the canis family. Most commonly, okami are simply wolf demihumans, making up the overwhelming majority.
+However, some subvariants of okami can be seen.
+- Jackal - Rare. Native to Africa and Eurasia. Leaner, larger ears, built for endurance over strength. Dark hair colors.
+- Coyote - 10% of all okami. Native to NA. Leaner, scrappy, pointier, larger ears, built for endurance over strength. Earthy hair colors.
+- Inumimi would technically be considered subvariants, but are widely accepted as their own species.
+
+SCENT MARKING: One tradition that persists is scent marking using cheek glands. This subtle practice remains important for marking mates and close friends, though the scent is often indistinguishable to non-okami.
 
 ## Nekomimi Lore
 Nekomimi are often referred to as a catboy or catgirl depending on gender.
