@@ -1136,7 +1136,7 @@
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Height:</span>
-            <span class="id-value">5'7"</span>
+            <span class="id-value">5'3"</span>
         </div>
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
@@ -1403,7 +1403,7 @@
         </div>
         <div class="id-info id-sizes">
             <span class="id-label">Heights:</span>
-            <span class="id-value">5'2" & 5'7"</span>
+            <span class="id-value">5'2" & 5'8"</span>
         </div>
         <div class="id-info id-room">
             <span class="id-label">Room:</span>
