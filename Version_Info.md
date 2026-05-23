@@ -5,6 +5,7 @@
 - added a home button to the buttons along the bottom to close out chats easier
 - updated Muse's expression sets for the side character loader and Weybot to use the correct expression set based on nsfw settings
 **Characters Updates**
+
 All Characters
 - updated splash text to match their blurbs from the cast page
 Lucy
@@ -15,6 +16,7 @@ Lucy
 - Character Expressions has been added to the registrar; see [Discord]( https://discord.com/channels/1250835886216577034/1360763769063477380/1502026022693114008) for more details
 - fresh installs will now use sonnet 4.6 rp for initial models
 **Characters Updates**
+
 Dash
 - added her naked outfit
 
@@ -25,6 +27,7 @@ Dash
 # 20260427 Changelog Changelog
 - adjusted the Weybooru extension based on user feedback
 **Characters Updates**
+
 Muse
 - added a turbo mode toggle in the clothing button
 - added a few extra sfw expressions for a bit of variety
@@ -39,6 +42,7 @@ Muse
 - added a warning when turning the LTM prompt too low
 - added pfps for characters in social media while html is enabled in settings
 **Characters Updates**
+
 Ellie
 - fully released
 Khepri
@@ -57,6 +61,7 @@ Yue-Lin
 - added a clothing tracker to the footer
 - adjusted the side character loader to adjust size based on available space, rather than matching the left expression's size
 **Characters Updates**
+
 Aiko
 - nude and college outfits added
 Ellie
@@ -67,6 +72,7 @@ Ellie
 - fix a bug where the side character loader would duplicate characters
 - added a 'current setting' to the Focus and RP types setting menu
 **Characters Updates**
+
 Aiko
 - underwear outfit added
 Ava
@@ -98,6 +104,7 @@ Lentyl
 - an LTM snooze button has been added
 - all underwear outfits are now behind the NSFW toggle
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Aiko
 - base outfit added
 Belle
@@ -134,6 +141,7 @@ Yue-Lin
 - fixed a few bugs involving the different message modes
 - added the option to re-add the old HTML custom prompting back into the prompt
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - backgrounds removed from Naked set
 Gemini
@@ -143,6 +151,7 @@ Gemini
 - fixed a few bugs involving the different message modes
 - added the option to re-add the old HTML custom prompting back into the prompt
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - updated greetings to have the location point out it is Rivera's party
 - made cocaine one of her 'never deals out' drugs
@@ -167,6 +176,7 @@ Rosa
 - updated greetings to remove human ears from some of the greeting pics
 - fixed a bug in Group Chat creations
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - removed background from her main and lingerie outfits
 - updated character
@@ -223,6 +233,7 @@ Weybot
 --- extra costumes not available for side characters
 --- expression is tied to main character's expression
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Lentyl
 - main outfit added
 Lyris & Vesper
@@ -235,6 +246,7 @@ Warren
 - fixed a bug for the local narrator system
 - restructured the LTM system to no lose track when users delete messages
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Bastet
 - full release
 Dash
@@ -254,6 +266,7 @@ Shani
 - updated main prompt
 - several new subbots added, including Bastet, Miu, Nefara, Khepri, Sobek, and Shani
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Bastet
 - initial release on Beta
 Bianca
@@ -291,6 +304,7 @@ Shani
 - added an option to change the current LTM Counter to adjust for deletings messages, etc
 - four new subbots, including Lentyl's best friend Remy and his family
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Lentyl
 - initial release on Alpha
 
@@ -300,6 +314,7 @@ Lentyl
 - updated texting ui
 - updated Beta prompt
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Karmen
 - added her hoodie and naked expression sets
 Lurkle
@@ -308,12 +323,14 @@ Lurkle
 # 20251208 Changelog Changelog
 - added a 'current chat' option to changing narrators for one-offs
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Karmen
 - initial release on Alpha
 
 # 20251203 Changelog Changelog
 - updated Exchange entry
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Mika
 - updates to character prompt
 Vera
@@ -323,6 +340,7 @@ Vera
 # 20251202 Changelog Changelog
 - fixed thoughts for Drunk Jenn and Fawne from being removed
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Lurkle
 - overhaul of character prompt and greetings
 Sunny
@@ -332,6 +350,7 @@ Sunny
 - updated Nix and Sunny's info to include roommate
 - fixed the texting html to be client side only and reduce token count, curtesy of Shiru
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Sunny
 - updated greeting with images
 - Beta release
@@ -339,6 +358,7 @@ Sunny
 # 20251127 Changelog Changelog
 - updated temperature for HM models
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Indigo
 - removed the doomsday counter from Indigo's whiteboard
 Sunny
@@ -349,6 +369,7 @@ Professor Akiyama
 # 20251126 Changelog Changelog
 - added Beta Prompt testing for Beta and Alpha users
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Indigo
 - tuned her whiteboard to keep it from leaking into the world
 
@@ -367,6 +388,7 @@ Indigo
 - Senaka Boulevard reworked
 - added three new subbots, including Professor Yamada
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Aiko
 - corrected folder structure for zip file
 Indigo
@@ -379,6 +401,7 @@ Sunny
 - thanks to Shiru, the character downloader now includes an optional 'password entry' option to auto-download this month's alpha and beta files without manually doing so
 - phone command fixed for Mirror Weyland
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Indigo
 - gave Indigo her whiteboard
 Serra
@@ -387,6 +410,7 @@ Serra
 # 20251101 Changelog Changelog
 - updated LTM prompt
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Lyris & Vesper
 - full release
 Rosa
@@ -395,6 +419,7 @@ Rosa
 # 20251031 Changelog Changelog
 - fixed LTM and lag issues with Mirror Weyland
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Mirror Weyland
 - Beta release
 - added Mirror Aiko, Kinsbane Manor, and Mirror Muse to the roster
@@ -404,6 +429,7 @@ Mirror Weyland
 - finally found background bug
 - added extra guardrail for auto LTMs
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake
 - Blake's secret has been added in
 Mirror Weyland
@@ -413,6 +439,7 @@ Mirror Weyland
 - added a new 'scenario switch' option to the school year button
 --- if a character has an alternate scenario that happens in the future, you can now use the school year button to begin that roleplay scenario in your current roleplay without having to switch chats or move LTMs
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake
 - updated Moonlight Festival scenarios
 Koshizu
@@ -427,6 +454,7 @@ Kressa
 --- files are now hosted on a new site that supports better stability for downloading and download speed
 - added a language option to the menu to change the base language of chats
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cairo
 - removed backgrounds from all outfits
 Serra
@@ -437,6 +465,7 @@ Serra
 - changed back to script only character selecting for Weybot and Kinsbane, as the extension is still too buggy
 - put in extra guardrails to get Weybot's expression chooser better in line
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake
 - updated greeting scenario context for main greeting
 [Redacted]
@@ -449,6 +478,7 @@ Blake
 - added the !Drama command as a full command and not just a button
 - finished updating all character image files to the smaller size, reducing total file size by 60%
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake
 - major overhaul of character and history
 Briar
@@ -465,6 +495,7 @@ Vera
 # 20251019 Changelog Changelog
 - fixed bug prompting for ' instead of " for speech
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Lyris & Vesper
 - updated greeting
 - released to Beta
@@ -480,6 +511,7 @@ Lyris & Vesper
 - updated prompt to improve character progression
 - updated Hellhound lore info
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - updated main and punk outfits
 - added a new cozy outfit
@@ -488,6 +520,7 @@ Eve
 
 # 20251014 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - background removed from Neshe's main outfit
 Rosa
@@ -499,6 +532,7 @@ Eve
 - updated LTM prompt to try and avoid robotic type memories
 - updated vector settings to greatly improve vector pulling, as well as improve response times on slowly devices that still used local vectoring (see Lucky's announcement for details)
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake
 - updated greeting to match change in timeline for drunk greeting
 Rosa
@@ -511,17 +545,20 @@ Vera
 # 20251008 Changelog Changelog
 - fixed a bug with visual novel mode
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - updated Fawne's greeting and scenario
 
 # 20251005 Changelog Changelog
 - added new lore about the founding of Weyland University
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Briar
 - added her pet rock
 
 # 20251004 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - updated age order (no redownload required, but send a !Refresh)
 Weybot
@@ -530,6 +567,7 @@ Weybot
 
 # 20251003 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Kai
 - updated scenario context
 
@@ -543,6 +581,7 @@ Kai
 - added new backgrounds, including Sterling Dormitory, car interior, lecture halls, and the dormitory hallway
 - updated lore entries for incubus, succubus, and demonids
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - updated Neshe's greeting, scenario, and personality (use !Refresh on existing runs for personality update)
 Kressa
@@ -564,6 +603,7 @@ Kressa
 --- !Conscience6 - Lyris & Vesper
 --- !Conscience7 - Rosa & Eve
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Briar
 - lingerie outfit added
 Cerberus Sisters
@@ -577,6 +617,7 @@ Vera
 # 20250916 Changelog Changelog
 - fixed a line in the script that could mess up non-English LTMs
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Rosa
 - updates to personality and greeting
 - released on Beta
@@ -585,6 +626,7 @@ Warren
 
 # 20250914 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - Neshe's internal appearance updated (requires a !Refresh on existing runs)
 Eve
@@ -601,6 +643,7 @@ Rein
 - updated LTM creation for Cerberus Sisters to be pov of individual sisters
 - changed how expressions work for dual/triple character cards
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - appearance updated
 Eve
@@ -612,6 +655,7 @@ Lyris & Vesper
 - added subbots for Adrian, Mason, Travis, Garrett, Richard, and Margaret
 - updated LTM creation for Cerberus Sisters, Blake & Serra, and Lyris & Vesper
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - new greeting released
 Lyris & Vesper
@@ -621,6 +665,7 @@ Lyris & Vesper
 - updated !Refresh to now have the command also update a character's personality to their latest version in existing runs
 - modified the LTM for new chats so that the harmless error warnings about missing LTMs will only appear if deleted, not if an error happens during creation
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - new greeting released
 Rein
@@ -631,6 +676,7 @@ Rein
 - added subbots for Eve, Briar, Rosa, Neshe, Astrid, and Fawne
 - updated Belle's subbot and added the Never Ender
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - new greeting released
 Cerberus Sisters
@@ -643,6 +689,7 @@ Rosa
 - improved the ui buttons for the Weylandpedia for mobile users
 - adding scaling to the character id cards in the Weylandpedia for mobile users
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Briar
 - updated main outfit
 Kiera
@@ -657,6 +704,7 @@ Lurkle
 - improved the ui buttons for the Weylandpedia for mobile users
 - fixed a bug when making LTMs
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Mika
 - added three new outfits
 
@@ -667,6 +715,7 @@ Mika
 - Willow room changed to 383
 - attempted a fix for deleted messages and added an internal bug-log to chat files for checking
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Briar
 - updated Briar's thoughts
 
@@ -674,6 +723,7 @@ Briar
 - clarified Muse's instructions for first time users
 - tweaked Bap, Warren, and Belle's personalities
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Aiko
 - full release
 Kinsbane Manor
@@ -695,6 +745,7 @@ Willow
 - added an extension to improve character image switching in Weybot and now in Kinsbane Manor
 - added new locations at the end of the Boulevard: 7-Eleven and Soft Pike Trailer Park
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cerberus Sisters
 - initial release on Alpha
 Eve
@@ -703,17 +754,20 @@ Eve
 # 20250815 Changelog Changelog
 - fixed blank options on the costume button
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Muse
 - initial Alpha release
 
 # 20250814 Changelog Changelog
 - added a better guardrail to prevent 'fake' new starts
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Briar
 - initial full release
 
 # 20250812 Changelog Changelog
 **Characters Updates (Initial Downloads Required for New Characters)**
+
 Bianca
 - naked outfit added
 Luna
@@ -726,6 +780,7 @@ Mika
 
 # 20250805 Changelog Changelog
 **Characters Updates (Initial Downloads Required for New Characters)**
+
 Rivera
 - adjusted greeting
 Summer
@@ -736,6 +791,7 @@ Summer
 # 20250804 Changelog Changelog
 - added an auto 'new chat' reload if a new chat is detected to be a 'fake' new chat
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Nix
 - removed bg of date outfit
 Willow
@@ -745,6 +801,7 @@ Willow
 - added guardrails to the character viewer
 - added an auto-delete for blank messages and a toast message informing the user of it
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Jenn
 - enhanced drunk start
 Willow
@@ -752,6 +809,7 @@ Willow
 
 # 20250727 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Aiko
 - initial release on Alpha
 Bap
@@ -771,6 +829,7 @@ Kinsbane Manor
 
 # 20250726 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Kinsbane Manor
 - initial release on Alpha
 
@@ -778,12 +837,14 @@ Kinsbane Manor
 - updated LTM creation processes to try to prevent accidentally deletions caused by stopping creation mid-progress or receiving an invalid response from the provider
 - put in a guardrail to try and prevent any random message deletions caused by invalid responses by providers
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Bap
 - Bap's hair length has been fixed for new runs
 
 # 20250721 Changelog Changelog
 - updated prompting and ltm settings to combat model forgetfulness
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Bap
 - small change to prompt for new runs
 
@@ -791,6 +852,7 @@ Bap
 - updated to newest version of SillyTavern
 - made the current theme save before using the character viewer
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Bap
 - initial release on Beta
 
@@ -810,6 +872,7 @@ Bap
 
 # 20250714 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Luna
 - initial release on Beta
 Mika
@@ -820,6 +883,7 @@ Rivera
 # 20250713 Changelog Changelog
 - more regex extension work by Shiru
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Rivera
 - main outfit added
 - full release
@@ -827,6 +891,7 @@ Rivera
 # 20250711 Changelog Changelog
 - more regex extension work
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Rivera
 - initial release on Beta
 Seth
@@ -838,11 +903,13 @@ Seth
 - added Koshizu and W̷̆̾i̷͛̒l̷̿̚l̴͋̈o̴̕̚w̵̮̿  as subbots
 - the trees stir with the wind
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Lurkle
 - updated prompting
 
 # 20250707 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Seth
 - initial release on Alpha
 
@@ -850,6 +917,7 @@ Seth
 - tuned down the prompts and 3rd person pov injector
 - the trees stir with the wind
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Ava
 - main greeting now happens during Sophomore year
 - nude outfit added
@@ -873,11 +941,13 @@ W̷̆̾i̷͛̒l̷̿̚l̴͋̈o̴̕̚w̵̮̿
 - added an occasional reminder to Sonnet for tails and ears but lost track of the trees
 - integrated a new toggleable SM/EM mode system, which can be toggled in the settings
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Ava
 - underwear outfit added
 
 # 20250630 Changelog Changelog
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cairo
 - updated character prompt
 - full release
@@ -888,6 +958,7 @@ Koshizu
 - put backup guardrails in the case of any errors while using the character viewer by refreshing the webpage
 - adjusted Ava's cheek rubs to work on old runs
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Warren
 - added new outfit
 
@@ -896,6 +967,7 @@ Warren
 - reinforced Nibble's existence as a goldfish
 - adjusted dorm layout
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Ava
 - added cheek rubs
 
@@ -904,6 +976,7 @@ Ava
 - new house party backgrounds
 - removed POV settings from Kressa
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Belle
 - added full home layout to Rivera's house party. Go explore!
 Kai
@@ -930,6 +1003,7 @@ Kai
 - Attempted a fix for first message errors
 - added 15 new backgrounds centered around Kinsbane
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 All Characters
 - updated regex to work with Shiru's extension
 Ava
@@ -943,6 +1017,7 @@ Gemini
 - worked on the welcome screen for WeylandTavern a little
 - improved LTM generation on recency and repetition
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake & Serra
 - updated greeting
 Blake
@@ -959,6 +1034,7 @@ Warren
 # 20250613 Changelog Changelog
 - adjusted LTM generation for more consistency
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 All Characters
 dded blurbs to their descriptions to give a short handle in the character selector
 - added some regex entries to fix new formatting issues
@@ -978,6 +1054,7 @@ Warren
 - added a persona choice to Weybot
 - added the ability to cancel the new run questions on Weybot
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 All Characters
 - added some regex entries to fix new formatting issues
 
@@ -988,6 +1065,7 @@ All Characters
 - Karmen's subbot was fixed
 - added a hospital background
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Cairo
 - Alpha release
 Koshizu
@@ -1013,6 +1091,7 @@ Weybot
 - added Koshizu to the roster list entry and roommate distribution list entry
 - you can now start any non-Blake scenario as someone else's roommate by adding [New Roommate] to your first initial message
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 All Characters
 - updated for new prompt
 Bianca
@@ -1041,6 +1120,7 @@ Weybot
 - images should now properly scale on mobile devices and not stretch
 - added formatting reinforcement for OOC starts and Weybot
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Bianca
 - initial release on beta
 Lucy
@@ -1057,6 +1137,7 @@ Weybot
 - new subbot: Kellen
 - ST default backgrounds are no longer tracked and can be removed
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Jenn
 - initial release on beta
 Kai
@@ -1079,6 +1160,7 @@ Weybot
 - fixed a bug in the character auto-updater
 - startup files now prompt user if an update failed to install to make the error more apparent to the user
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Kai
 - fixed lorebook not being connected
 - updated some parts of her character
@@ -1094,11 +1176,13 @@ Summer
 - adjusted the prompt to try to work with the recent Sonnet changes
 - fixed a few of the scenarios acting up
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Kai
 - initial release
 Summer
 - some edits to the Festival outfit
 **20250429.5 Changelog**
+
 - did some fixing on the Typing Indicator Extention
 - removed canonical crushes from all but one subbot (main bots will still have them)
 - fixed a tag bug for the costume menu
@@ -1109,11 +1193,13 @@ Summer
 - added new lore for heat cycles and altered the !Heat to work appropriately (part of the Paw Patrol Plus Tier)
 - added the 'typing indicator' extension, which will show when the AI is typing while you wait
 **Characters Updates (Inital Downloads Required for New Characters)**
+
 Blake
 - initial release
 Summer
 - new hoodie outfit
 **20250426 Update**
+
 - New character installer update: the next time you download a character, it will then auto-update the character whenever the character has a new version without you needing to redownload manually! Go Shiru!
 - revamped password systems; currently looking into auto-passwords to help streamline everything.
 --- There are now three tiers depending on subscription:
@@ -1136,6 +1222,7 @@ Summer
 - adding a trimmer to remove pre-message notes that Sonnet has been throwing out
 - a professor has been put on probation after accusations of stealing the moon for Belle; legislation to follow
 **Characters Updates (Seperate Download Required)**
+
 All Characters
 - version tracking
 - Sonnet pre-message note trimming
@@ -1151,6 +1238,7 @@ Vera
 - Indigo's subbot updated for Freshman runs.
 - updated prompt settings to prevent overflow.
 **Characters Updates (Seperate Download Required)**
+
 All Characters
 - costume code updates
 Belle
@@ -1164,6 +1252,7 @@ Serra & Summer
 - 5 new backgrounds added, including the mall, movies, and Exchange
 - professor enrollment papers processed and re-enrolled
 **Characters Updates (Seperate Download Required)**
+
 Summer
 - outfit transparency improved
 
@@ -1173,6 +1262,7 @@ Summer
 - Corrected Gemini's info from duplicating Tom's.
 - Ava's online handle changed.
 **Characters Updates (Seperate Download Required)**
+
 Nix
 - greeting updated
 Belle
@@ -1183,6 +1273,7 @@ Belle
 - all greeting images are now part of base WT, rather than individual characters to improve mobile support. 
 - Weyland Tavern introduced in-world. Go visit. 
 **Characters Updates (Seperate Download Required)**
+
 All
 - All characters are now 1st person for Greetings like Lucky originally had them. This should help keep the AI for acting for you.
 Nix
@@ -1200,6 +1291,7 @@ Phone UI has been updated.
 - !Camera: Has been adjusted to work more appropriately both in and out of NSFW context.
 - Fixed the NSFW toggle not lining up properly between images and costumes.
 **Characters Updates (Seperate Download Required)**
+
 Nix
 - Weyland Tavern Debut
 - New Alt Greeting
