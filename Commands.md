@@ -1,4 +1,4 @@
-/comment # 📜 WEYLAND TAVERN COMMAND GUIDE
+# 📜 WEYLAND TAVERN COMMAND GUIDE
 
 *Commands are typed directly into the chat with the exclamation point. They work with any Weyland character!*
 
