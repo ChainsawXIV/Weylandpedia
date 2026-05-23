@@ -1,4 +1,4 @@
-<font size="5"><div class="weyland-menu"><strong>You are currently running on<br>Version {{getglobalvar::QRVersion}}.</font></strong><br><br>
+<font size="5"><div class="weyland-menu">
 <div style='text-align:left'>
 <strong>20260522 Changelog</strong><br>
 - added a 'None' option for Weybot silhouettes<br>
