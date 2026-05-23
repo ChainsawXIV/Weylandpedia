@@ -1,28 +1,3 @@
-<style>
-dialog.popup::before {
-    content: "Weyland Tavern Changelog";
-}
-
-{{getglobalvar::MenuStyle}}
-
-<style>
-.weyland-menu {
-    padding: 0px 5vh 0px 5vh;
-    color: #330d00;
-}
-
-dialog.popup {
-    max-height: calc(90vh) !important;
-    min-height: 0 !important;
-    overflow: hidden !important;
-}
-
-.popup-body {
-    margin-top: 95px;
-    overflow-y: auto !important;
-    max-height: calc(90vh) !important; 
-}
-</style>
 <font size="5"><div class="weyland-menu">
 <div style='text-align:left'>
 <strong>20260522 Changelog</strong><br>
